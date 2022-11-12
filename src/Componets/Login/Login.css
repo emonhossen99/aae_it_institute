@@ -1,0 +1,25 @@
+.mySingIn{
+  margin-top:55px;
+}
+.card.w-96.bg-base-100.shadow-xl {
+    border: none;
+}
+.HeadingLogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imagesLogos{
+    height: 108px;
+    width: 108px;
+}
+button.Githublogo.btn.btn-info{
+    background: #f2f2f2;
+    border: none;
+    text-transform: capitalize;
+}
+.Githublogo img{
+    display: inline-block;
+    width: 70px;
+    margin: auto;
+}

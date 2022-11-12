@@ -1,0 +1,58 @@
+.footerLogo{
+    height: 110px;
+    width: 120px;
+}
+.footerPara{
+    margin-top: -26px;
+}
+.footerTwoLogo{
+    height: 68px;
+    width: 80px;
+}
+.footerTwoPara{
+    margin-top: 17px;
+}
+.footerTwoSocalLogo{
+    margin-top: 17px;
+}
+.LastFooter{
+    border-top: 1px solid #eeeeee;
+    color: black;
+}
+.footerServices a{
+    text-decoration: none ;
+    display: block;
+    font-size: 18px;
+}
+.footerCompany a{
+    text-decoration: none ;
+    display: block;
+    font-size: 18px;
+}
+
+.social-media a{
+    text-decoration-line: none;
+    display: inline-block;
+    font-size: 26px;
+    margin-top: 24px;
+    margin-right: 18px;
+}
+.social-media a:nth-child(3){
+    color: #3b5998;
+}
+.social-media a:nth-child(4){
+    color: #1DA1F2;
+}
+.social-media a:nth-child(5){
+    color: #3f729b;
+}
+.social-media a:last-child{
+    color: #0077b5;
+}
+.imgesDiv{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}

@@ -1,0 +1,16 @@
+.BannerHead{
+    background-color: #f6f6f6;
+}
+.myBanner {
+    margin-top: 79px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+} 
+.fancyImage{
+    background-color: rgb(225 242 255);
+    border-radius:  30% 70% 14% 86% / 68% 30% 70% 32% ;
+
+}
+.BannerHeading{
+    margin-top: 40px;
+}

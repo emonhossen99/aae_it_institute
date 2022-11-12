@@ -1,0 +1,38 @@
+.heroIcons{
+    padding: 2px 4px;
+    border: 2px solid mediumpurple;
+    border-radius: 50%;
+    color: rgb(119, 53, 250);
+}
+.contactBox h5{
+    color: #6cb0b0;
+    margin-top: 7px;
+    margin-bottom: 12px;
+}
+.contactBox p{
+    line-height: 1px;
+}
+.contactUs{
+    background: #f9f9f9;
+}
+.buttonLink{
+    text-decoration: none !important;
+}
+.ContactButton{
+    display: flex;
+    align-items: center;
+    background-color: #2196f3;
+    color: white;
+    font-size: 25px;
+    margin: auto;
+    padding: 6px 10px;
+    border-radius: 5px;
+    margin-top: 32px;
+    font-size: 18px;
+    text-underline-offset: none;
+}
+.ContactButton:hover{
+    background-color: #03355e;
+    color: white;
+    transition: 1s;
+}

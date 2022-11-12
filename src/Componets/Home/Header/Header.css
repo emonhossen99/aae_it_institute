@@ -1,0 +1,25 @@
+nav.mainNav.navbar.navbar-expand-lg.navbar-light {
+    position: absolute;
+    width: 100%;
+}
+a.commonNav.nav-link {
+    color: white;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+.mainNav{
+    background-color: #00bcd46e;
+    position: absolute;
+    width: 100%;
+}
+.commonNav{
+    color:white;
+    font-weight: 600;
+    margin-right: 25px;
+}
+.imagesLogo{
+    height: 53px;
+    width: 96px;
+    background: #e7e7e7;
+    border-radius: 50%;
+}
